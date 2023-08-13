@@ -1,7 +1,7 @@
 # Cat-Dog_Image_Classification_Android_App
 
 A 2-Class Image Classification Cat-Dog Android App using your Phone camera.
-This setup is simpler and more intuitive. Your model's primary task is to distinguish between cats and dogs, which are the main categories of interest.
+This setup is simpler and more intuitive. This model's primary task is to distinguish between cats and dogs, which are the main categories of interest.
 This can result in a more straightforward interpretation of the model's performance and easier decision-making for end users.
 Using Teachable Machine from Google, a great tool for creating simple machine learning models, this app is specifically based on Convolutional Neural Networks (CNNs).
 and imported it as TensorFlow Lite and applied it to Android as an app for portability, testing, and entertainment.
